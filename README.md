@@ -18,6 +18,9 @@ Then you can build with
 
 The solver uses the same parameters as the original lean miner.
 
+New parameter:
+Use -e  to set the number of edge bits. 
+
 ## How it works
 
 Watch my talk at the 2019 Grin Amsterdam Meetup to see how it works.
