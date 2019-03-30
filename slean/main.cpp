@@ -54,7 +54,7 @@ int main(int argc, char **argv) {
 	}
 
 	if (ntrims == 0) {
-		ntrims = (edgeBits < 31) ? 20 : 50;
+		ntrims = (edgeBits < 31) ? 20 : 20+numThreads*2;
 	}
 
 
