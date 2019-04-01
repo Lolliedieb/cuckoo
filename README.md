@@ -32,3 +32,6 @@ when marking and trimming we do not need to recompute the endpoints.
 Also I write directly back to the edge aliveness map instead of bucketing
 by the nonces after the trimming rounds.
 
+
+### Donation and Bounty Receiving Address
+BTC: 36znTwoPefzVeDseadwmxdVBhHiPgztEBm
